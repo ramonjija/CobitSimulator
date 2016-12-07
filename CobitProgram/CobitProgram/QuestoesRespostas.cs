@@ -912,13 +912,13 @@ manutenção dos softwares aplicativos";
 tradicionais áreas de responsabilidade de TI de planejamento, construção processamento e monitoramento Entre os conjuntos de construção, processamento e monitoramento.Entre os conjuntos de
 processos listados abaixo, qual faz parte do domínio Entregar e Suportar ?";
 
-            questao1A5.Alternativas[0] = "Gerenciar a cap p g gç acidade e o desempenho, educar e treinar os usuários e gerenciar a configuração";
+            questao1A5.Alternativas[0] = "Gerenciar a capacidade e o desempenho, educar e treinar os usuários e gerenciar a configuração";
             questao1A5.Alternativas[1] = "Instalar e homologar as soluções e mudanças, gerenciar as mudanças, habilitar a operação e o uso";
             questao1A5.Alternativas[2] = "Instalar e homologar as soluções e mudanças, gerenciar as mudanças, assegurar a continuidade de serviços";
             questao1A5.Alternativas[3] = "Monitorar e avaliar o desempenho, monitorar e avaliar os controles internos, avaliar e gerenciar os riscos de TI";
             questao1A5.Alternativas[4] = "Determinar o direcionamento tecnológico, definir os processos, a organização e os relacionamentos de TI, gerenciar o investimento de TI";
 
-            questao1A5.Resposta = "";
+            questao1A5.Resposta = questao1A5.Alternativas[0];
             questionario.Add(questao1A5);
 
             QuestoesRespostas questao2A5 = new QuestoesRespostas();
@@ -932,7 +932,7 @@ processos listados abaixo, qual faz parte do domínio Entregar e Suportar ?";
             questao2A5.Alternativas[3] = "AI2 Adquirir e Manter Software Aplicativo.";
             questao2A5.Alternativas[4] = "DS1 Definir e Gerenciar Níveis de Serviços.";
 
-            questao2A5.Resposta = "";
+            questao2A5.Resposta = questao2A5.Alternativas[4];
             questionario.Add(questao2A5);
 
             QuestoesRespostas questao3A5 = new QuestoesRespostas();
@@ -947,7 +947,7 @@ pertencentes tratam da definição dos níveis de serviço, entre outros. Trata-
             questao3A5.Alternativas[3] = "da Entrega e do Suporte.";
             questao3A5.Alternativas[4] = "da Aquisição e da Implementação";
 
-            questao3A5.Resposta = "";
+            questao3A5.Resposta = questao3A5.Alternativas[3];
             questionario.Add(questao3A5);
 
             QuestoesRespostas questao4A5 = new QuestoesRespostas();
@@ -957,11 +957,11 @@ pertencentes tratam da definição dos níveis de serviço, entre outros. Trata-
 
             questao4A5.Alternativas[0] = "PO7 Gerenciar os Recursos Humanos de TI.";
             questao4A5.Alternativas[1] = "DS1 Definir e Gerenciar Níveis de Serviços.";
-            questao4A5.Alternativas[2] = "DS2 Gerenciar Serviços Terceirizados DS2 Gerenciar Serviços Terceirizados.";
+            questao4A5.Alternativas[2] = "DS2 Gerenciar Serviços Terceirizados.";
             questao4A5.Alternativas[3] = "DS3 Gerenciar o Desempenho e a Capacidade.";
             questao4A5.Alternativas[4] = "AI4 Habilitar Operação e Uso";
 
-            questao4A5.Resposta = "";
+            questao4A5.Resposta = questao4A5.Alternativas[2];
             questionario.Add(questao4A5);
 
 
@@ -976,7 +976,7 @@ pertencentes tratam da definição dos níveis de serviço, entre outros. Trata-
             questao5A5.Alternativas[3] = "Planejamento e Organização.";
             questao5A5.Alternativas[4] = "Entrega e Suporte";
 
-            questao5A5.Resposta = "";
+            questao5A5.Resposta = questao5A5.Alternativas[4];
             questionario.Add(questao5A5);
 
 
@@ -991,7 +991,7 @@ pertencentes tratam da definição dos níveis de serviço, entre outros. Trata-
             questao6A5.Alternativas[3] = "Nível 4: Gerenciado e Mensurável.";
             questao6A5.Alternativas[4] = "Nível 5: Otimizado";
 
-            questao6A5.Resposta = "";
+            questao6A5.Resposta = questao6A5.Alternativas[4];
             questionario.Add(questao6A5);
 
 
@@ -1009,7 +1009,7 @@ acima está relacionada a um dos objetivos de controle de um dos processos do do
             questao7A5.Alternativas[3] = "Assegurar a Conformidade com Requisitos Externos.";
             questao7A5.Alternativas[4] = "Adquirir e Manter Infraestrutura de Tecnologia.";
 
-            questao7A5.Resposta = "";
+            questao7A5.Resposta = questao7A5.Alternativas[2];
             questionario.Add(questao7A5);
 
             QuestoesRespostas questao8A5 = new QuestoesRespostas();
@@ -1023,7 +1023,7 @@ acima está relacionada a um dos objetivos de controle de um dos processos do do
             questao8A5.Alternativas[3] = "AI7 Instalar e Homologar Soluções e Mudanças.";
             questao8A5.Alternativas[4] = "DS4 Assegurar a Continuidade dos Serviços.";
 
-            questao8A5.Resposta = "";
+            questao8A5.Resposta = questao8A5.Alternativas[0];
             questionario.Add(questao8A5);
 
             QuestoesRespostas questao9A5 = new QuestoesRespostas();
@@ -1037,7 +1037,7 @@ acima está relacionada a um dos objetivos de controle de um dos processos do do
             questao9A5.Alternativas[3] = "Nível 4: Gerenciado e Mensurável";
             questao9A5.Alternativas[4] = "Nível 5: Otimizado";
 
-            questao9A5.Resposta = "";
+            questao9A5.Resposta = questao9A5.Alternativas[4];
             questionario.Add(questao9A5);
 
 
@@ -1057,7 +1057,7 @@ Estão de acordo com o COBIT APENAS os que se apresentam em:";
             questao10A5.Alternativas[2] = "II e III";
             questao10A5.Alternativas[3] = "I, II e IV";
             questao10A5.Alternativas[4] = "II,III e IV";
-            questao10A5.Resposta = "";
+            questao10A5.Resposta = questao10A5.Alternativas[3];
             questionario.Add(questao10A5);
 
             QuestoesRespostas questao11A5 = new QuestoesRespostas();
@@ -1066,11 +1066,11 @@ Estão de acordo com o COBIT APENAS os que se apresentam em:";
                 @" - No COBIT, um dos processos do domínio Entrega e Suporte é o de assegurar conformidade com requisitos externos.";
 
             questao11A5.Alternativas[0] = "CERTO";
-            questao11A5.Alternativas[1] = "Errado";
+            questao11A5.Alternativas[1] = "ERRADO";
             questao11A5.Alternativas[2] = "N/A";
             questao11A5.Alternativas[3] = "N/A";
             questao11A5.Alternativas[4] = "N/A";
-            questao11A5.Resposta = "";
+            questao11A5.Resposta = questao11A5.Alternativas[1];
             questionario.Add(questao11A5);
 
             QuestoesRespostas questao12A5 = new QuestoesRespostas();
@@ -1079,11 +1079,11 @@ Estão de acordo com o COBIT APENAS os que se apresentam em:";
                 @"A contemplação dos aspectos de confidencialidade, integridade e disponibilidade para garantir a segurança da informação cabe ao domínio Entregar e Suportar. domínio Entregar e Suportar.";
 
             questao12A5.Alternativas[0] = "CERTO";
-            questao12A5.Alternativas[1] = "Errado";
+            questao12A5.Alternativas[1] = "ERRADO";
             questao12A5.Alternativas[2] = "N/A";
             questao12A5.Alternativas[3] = "N/A";
             questao12A5.Alternativas[4] = "N/A";
-            questao12A5.Resposta = "";
+            questao12A5.Resposta = questao12A5.Alternativas[0];
             questionario.Add(questao12A5);
 
             QuestoesRespostas questao13A5 = new QuestoesRespostas();
@@ -1092,11 +1092,11 @@ Estão de acordo com o COBIT APENAS os que se apresentam em:";
                 @"O domínio entrega e suporte abrange a entrega, o desenvolvimento e(ou) as aquisições de soluções de TI, bem como o suporte para executar a estratégia de TI estabelecida no suporte para executar a estratégia de TI estabelecida no SLA.";
 
             questao13A5.Alternativas[0] = "CERTO";
-            questao13A5.Alternativas[1] = "Errado";
+            questao13A5.Alternativas[1] = "ERRADO";
             questao13A5.Alternativas[2] = "N/A";
             questao13A5.Alternativas[3] = "N/A";
             questao13A5.Alternativas[4] = "N/A";
-            questao13A5.Resposta = "";
+            questao13A5.Resposta = questao13A5.Alternativas[1];
             questionario.Add(questao13A5);
 
             return questionario;
