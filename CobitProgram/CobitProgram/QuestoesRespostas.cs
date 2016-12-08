@@ -938,7 +938,7 @@ Entre os conjuntos de processos listados abaixo, qual faz parte do domínio Entr
                 @"É um dos domínios do COBIT. Define as questões operacionais ligadas ao uso da TI para atendimento aos serviços para os clientes, manutenção e garantias ligadas a estes serviços.
 Os processos a ele pertencentes tratam da definição dos níveis de serviço, entre outros. Trata-se";
 
-            questao3A5.Alternativas[0] = "da Obtenção de Garantia Independente da Obtenção de Garantia Independente.";
+            questao3A5.Alternativas[0] = "da Obtenção de Garantia Independente.";
             questao3A5.Alternativas[1] = "do Planejamento e da Organização.";
             questao3A5.Alternativas[2] = "da Monitoração e da Avaliação.";
             questao3A5.Alternativas[3] = "da Entrega e do Suporte.";
@@ -1028,7 +1028,7 @@ A atividade descrita acima está relacionada a um dos objetivos de controle de u
             questao9A5.Questao =
                 @" Em DS2, medições que suportam a detecção de problemas potenciais com serviços de terceiros, está em com nível?";
 
-            questao9A5.Alternativas[0] = " Nível 1: Inicial/ Ad hoc";
+            questao9A5.Alternativas[0] = "Nível 1: Inicial/ Ad hoc";
             questao9A5.Alternativas[1] = "Nível 2: Repetível porém Intuitivo";
             questao9A5.Alternativas[2] = "Nível 3: Processo Definido";
             questao9A5.Alternativas[3] = "Nível 4: Gerenciado e Mensurável";
