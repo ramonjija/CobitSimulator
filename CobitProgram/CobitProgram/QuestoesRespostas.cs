@@ -983,7 +983,7 @@ Os processos a ele pertencentes tratam da definição dos níveis de serviço, e
                 @"Em DS2 - Gerenciar Serviços Terceirizados, um programa contínuo que identifica e institucionaliza as melhores práticas indica qual nível de maturidade? ";
 
             questao6A5.Alternativas[0] = "Nível 1: Inicial/ Ad hoc.";
-            questao6A5.Alternativas[1] = " Nível 2: Repetível, porém Intuitivo";
+            questao6A5.Alternativas[1] = "Nível 2: Repetível, porém Intuitivo";
             questao6A5.Alternativas[2] = "Nível 3: Processo Definido";
             questao6A5.Alternativas[3] = "Nível 4: Gerenciado e Mensurável.";
             questao6A5.Alternativas[4] = "Nível 5: Otimizado";
@@ -1016,7 +1016,7 @@ A atividade descrita acima está relacionada a um dos objetivos de controle de u
 
             questao8A5.Alternativas[0] = "DS5 Garantir a Segurança dos Sistemas";
             questao8A5.Alternativas[1] = "DS12 Gerenciar o Ambiente Físico.";
-            questao8A5.Alternativas[2] = "PO9 Avaliar e Gerenciar os Riscos de TI PO9 Avaliar e Gerenciar os Riscos de TI";
+            questao8A5.Alternativas[2] = "PO9 Avaliar e Gerenciar os Riscos de TI.";
             questao8A5.Alternativas[3] = "AI7 Instalar e Homologar Soluções e Mudanças.";
             questao8A5.Alternativas[4] = "DS4 Assegurar a Continuidade dos Serviços.";
 

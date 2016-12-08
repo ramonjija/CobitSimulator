@@ -12,4 +12,3 @@ C:\Users\ramon.silva\Documents\GitHub\CobitSimulator\CobitProgram\CobitProgram\o
 C:\Users\ramon.silva\Documents\GitHub\CobitSimulator\CobitProgram\CobitProgram\obj\Debug\CobitProgram.pdb
 C:\Users\ramon.silva\Documents\GitHub\CobitSimulator\CobitProgram\CobitProgram\bin\Debug\CobitProgram.exe
 C:\Users\ramon.silva\Documents\GitHub\CobitSimulator\CobitProgram\CobitProgram\bin\Debug\CobitProgram.pdb
-C:\Users\ramon.silva\Documents\GitHub\CobitSimulator\CobitProgram\CobitProgram\obj\Debug\CobitProgram.csprojResolveAssemblyReference.cache
