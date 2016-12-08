@@ -935,8 +935,8 @@ Entre os conjuntos de processos listados abaixo, qual faz parte do domínio Entr
             QuestoesRespostas questao3A5 = new QuestoesRespostas();
 
             questao3A5.Questao =
-                @"É um dos domínios do COBIT. Define as questões operacionais ligadas ao uso da TI para atendimento aos serviços para os clientes, manutenção e garantias ligadas a estes serviços. Os processos a ele manutenção e garantias ligadas a estes serviços. Os processos a ele
-pertencentes tratam da definição dos níveis de serviço, entre outros. Trata-se";
+                @"É um dos domínios do COBIT. Define as questões operacionais ligadas ao uso da TI para atendimento aos serviços para os clientes, manutenção e garantias ligadas a estes serviços.
+Os processos a ele pertencentes tratam da definição dos níveis de serviço, entre outros. Trata-se";
 
             questao3A5.Alternativas[0] = "da Obtenção de Garantia Independente da Obtenção de Garantia Independente.";
             questao3A5.Alternativas[1] = "do Planejamento e da Organização.";
