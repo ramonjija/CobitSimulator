@@ -5,3 +5,6 @@ C:\Users\Ramon\documents\visual studio 2015\Projects\CobitProgram\CobitProgram\o
 C:\Users\Ramon\documents\visual studio 2015\Projects\CobitProgram\CobitProgram\obj\Debug\CobitProgram.csprojResolveAssemblyReference.cache
 C:\Users\Ramon\Documents\Github\CobitSimulator\CobitProgram\CobitProgram\obj\Debug\CobitProgram.exe
 C:\Users\Ramon\Documents\Github\CobitSimulator\CobitProgram\CobitProgram\obj\Debug\CobitProgram.pdb
+C:\Users\Ramon\Documents\Github\CobitSimulator\CobitProgram\CobitProgram\bin\Debug\CobitProgram.exe
+C:\Users\Ramon\Documents\Github\CobitSimulator\CobitProgram\CobitProgram\bin\Debug\CobitProgram.pdb
+C:\Users\Ramon\Documents\Github\CobitSimulator\CobitProgram\CobitProgram\obj\Debug\CobitProgram.csprojResolveAssemblyReference.cache

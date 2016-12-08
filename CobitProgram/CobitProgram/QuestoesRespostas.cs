@@ -821,8 +821,7 @@ O desenvolvimento e a manutenção dos procedimentos, instalação e certificaç
             QuestoesRespostas questao3A4 = new QuestoesRespostas();
 
             questao3A4.Questao =
-                @"  Com relação ao COBIT, julgue os próximos itens.
-O desenvolvimento e a manutenção dos procedimentos, instalação e certificação de software e gerenciamento de mudanças são processos do domínio aquisição e a implementação. ";
+                @"  Identificar Soluções Automatizadas e Avaliar e Gerenciar os Riscos de TI são objetivos de controle de alto nível pertencentes, respectivamente, aos domínios COBIT";
 
             questao3A4.Alternativas[0] = "Planejamento e Organização; e Monitoração e Avaliação";
             questao3A4.Alternativas[1] = "Monitoração e Avaliação; e Aquisição e Implementação.";
@@ -836,9 +835,7 @@ O desenvolvimento e a manutenção dos procedimentos, instalação e certificaç
             QuestoesRespostas questao4A4 = new QuestoesRespostas();
 
             questao4A4.Questao =
-                @"  No domínio adquirir e implementar (acquire and implement), há o processo adquirir e manter infra-estrutura de tecnologia (acquire
-and maintain technology infrastructure), que tem como objetivos: desenvolver e executar um plano de garantia de qualidade de software; desenvolver e manter uma estratégia e um plano para a
-manutenção dos softwares aplicativos";
+                @"  No domínio adquirir e implementar (acquire and implement), há o processo adquirir e manter infra-estrutura de tecnologia (acquire and maintain technology infrastructure), que tem como objetivos: desenvolver e executar um plano de garantia de qualidade de software; desenvolver e manter uma estratégia e um plano para a manutenção dos softwares aplicativos";
 
             questao4A4.Alternativas[0] = "CERTO";
             questao4A4.Alternativas[1] = "ERRADO";
@@ -880,7 +877,7 @@ manutenção dos softwares aplicativos";
             QuestoesRespostas questao7A4 = new QuestoesRespostas();
 
             questao7A4.Questao =
-                @"  Gerência de configuração é descrita, no COBIT, no domínio AI – Adquirir e Implementar";
+                @" Qual dos processos de TI dentro do COBIT deve assegurar a existência de um processo de desenvolvimento que contemple o cumprimento de prazos e otimização de custos";
 
             questao7A4.Alternativas[0] = "AI2 Adquirir e Manter Software Aplicativo";
             questao7A4.Alternativas[1] = "AI3 Adquirir e Manter Infraestrutura de Tecnologia";
@@ -894,7 +891,7 @@ manutenção dos softwares aplicativos";
             QuestoesRespostas questao8A4 = new QuestoesRespostas();
 
             questao8A4.Questao =
-                @"  Gerência de configuração é descrita, no COBIT, no domínio AI – Adquirir e Implementar";
+                @" Qual dos processos de TI dentro do COBIT aborda a avaliação crítica do impacto e prioridade das mudanças baseadas nas necessidades do negócio";
 
             questao8A4.Alternativas[0] = "AI4 Habilitar Operação e Uso";
             questao8A4.Alternativas[1] = "AI5 Adquirir Recursos de TI";
@@ -908,9 +905,9 @@ manutenção dos softwares aplicativos";
             QuestoesRespostas questao1A5 = new QuestoesRespostas();
 
             questao1A5.Questao =
-                @"O COBIT define as atividades de TI num modelo genérico de O COBIT define as atividades de TI num modelo genérico de processos divididos em quatro domínios.Esses domínios mapeiam as
-tradicionais áreas de responsabilidade de TI de planejamento, construção processamento e monitoramento Entre os conjuntos de construção, processamento e monitoramento.Entre os conjuntos de
-processos listados abaixo, qual faz parte do domínio Entregar e Suportar ?";
+                @"O COBIT define as atividades de TI num modelo genérico de processos divididos em quatro domínios. 
+Esses domínios mapeiam as tradicionais áreas de responsabilidade de TI de planejamento, construção, processamento e monitoramento.
+Entre os conjuntos de processos listados abaixo, qual faz parte do domínio Entregar e Suportar ?";
 
             questao1A5.Alternativas[0] = "Gerenciar a capacidade e o desempenho, educar e treinar os usuários e gerenciar a configuração";
             questao1A5.Alternativas[1] = "Instalar e homologar as soluções e mudanças, gerenciar as mudanças, habilitar a operação e o uso";
@@ -971,7 +968,7 @@ pertencentes tratam da definição dos níveis de serviço, entre outros. Trata-
                 @"No COBIT, “Gerenciar os serviços de terceiros” pertence a que domínio?";
 
             questao5A5.Alternativas[0] = "Auditoria.";
-            questao5A5.Alternativas[1] = "Recursos Humanos Recursos Humano.";
+            questao5A5.Alternativas[1] = "Recursos Humanos.";
             questao5A5.Alternativas[2] = "Aquisição e Contratos.";
             questao5A5.Alternativas[3] = "Planejamento e Organização.";
             questao5A5.Alternativas[4] = "Entrega e Suporte";
@@ -983,7 +980,7 @@ pertencentes tratam da definição dos níveis de serviço, entre outros. Trata-
             QuestoesRespostas questao6A5 = new QuestoesRespostas();
 
             questao6A5.Questao =
-                @"- Em DS2 - Gerenciar Serviços Terceirizados, um programa contínuo que identifica e institucionaliza as melhores práticas indica qual nível de maturidade? qual nível de maturidade?";
+                @"Em DS2 - Gerenciar Serviços Terceirizados, um programa contínuo que identifica e institucionaliza as melhores práticas indica qual nível de maturidade? ";
 
             questao6A5.Alternativas[0] = "Nível 1: Inicial/ Ad hoc.";
             questao6A5.Alternativas[1] = " Nível 2: Repetível, porém Intuitivo";
@@ -999,12 +996,12 @@ pertencentes tratam da definição dos níveis de serviço, entre outros. Trata-
             QuestoesRespostas questao7A5 = new QuestoesRespostas();
 
             questao7A5.Questao =
-                @"O Gerente de Operações de uma empresa de TI solicitou os contratos relativos às licenças de uso do sistema gerenciador de banco de dados adotado pela empresa. O seu objetivo é verificar se
-todas as cópias instaladas do todas as cópias instaladas do SGBD estão cobertas pelos contratos estão cobertas pelos contratos, pois, caso contrário, a empresa estará sujeita às penalidades previstas em lei. A atividade descrita 
-acima está relacionada a um dos objetivos de controle de um dos processos do domínio Entregar dos objetivos de controle de um dos processos do domínio Entregar e Suportar (DS) do COBIT. Que processo é esse?";
+                @"O Gerente de Operações de uma empresa de TI solicitou os contratos relativos às licenças de uso do sistema gerenciador de banco de dados adotado pela empresa. 
+O seu objetivo é verificar se todas as cópias instaladas do SGBD estão cobertas pelos contratos, pois caso contrário, a empresa estará sujeita às penalidades previstas em lei. 
+A atividade descrita acima está relacionada a um dos objetivos de controle de um dos processos do domínio Entregar e Suportar (DS) do COBIT. Que processo é esse?";
 
-            questao7A5.Alternativas[0] = " Gerenciar os Dados.";
-            questao7A5.Alternativas[1] = " Monitorar e Avaliar os Controles Internos";
+            questao7A5.Alternativas[0] = "Gerenciar os Dados.";
+            questao7A5.Alternativas[1] = "Monitorar e Avaliar os Controles Internos";
             questao7A5.Alternativas[2] = "Gerenciar a Configuração";
             questao7A5.Alternativas[3] = "Assegurar a Conformidade com Requisitos Externos.";
             questao7A5.Alternativas[4] = "Adquirir e Manter Infraestrutura de Tecnologia.";
@@ -1015,7 +1012,7 @@ acima está relacionada a um dos objetivos de controle de um dos processos do do
             QuestoesRespostas questao8A5 = new QuestoesRespostas();
 
             questao8A5.Questao =
-                @"- Qual é o objetivo de alto nível que mantém a integridade das informações e protege os ativos de TI dentro de um processo de gestão de segurança?";
+                @"Qual é o objetivo de alto nível que mantém a integridade das informações e protege os ativos de TI dentro de um processo de gestão de segurança?";
 
             questao8A5.Alternativas[0] = "DS5 Garantir a Segurança dos Sistemas";
             questao8A5.Alternativas[1] = "DS12 Gerenciar o Ambiente Físico.";
@@ -1046,10 +1043,10 @@ acima está relacionada a um dos objetivos de controle de um dos processos do do
             questao10A5.Questao =
                 @"Analise os seguintes processos de TI, conforme seus objetivos.
 I - Gerenciar as operações - Busca manter a integridade dos dados e assegurar que a infraestrutura de TI possa resistir e se recuperar de erros e falhas, atingindo os níveis de serviço operacionais para o processamento programado de dados,
-p oteção das sa das de dados c t cos, o to a e to e a ute ção da roteção das saídas de dados críticos, monitoramento e manutenção da infraestrutura.
+proteção das saidas de dados criticos, monitoramento e manutenção da infraestrutura.
 II - Gerenciar o ambiente físico - Busca proteger os ativos de TI e os dados do negócio e minimizar o risco de interrupção nos negócios, provendo e mantendo um ambiente físico adequado que proteja os recursos de TI contra acesso um ambiente físico adequado que proteja os recursos de TI contra acesso indevido, danos ou roubo.
 III - Gerenciar os dados - Busca otimizar o uso da informação e garantir que a informação esteja disponível quando requisitada com alto desempenho, de forma integrada mantendo a sua consistên integrada, mantendo a sua consistência e restringindo o seu acesso aos e restringindo o seu acesso aos administradores das bases de dados.
-IV - Garantir a segurança dos sistemas - Busca manter a integridade da infraestrutura de informação e de processamento e minimizar o impacto de vulnerabilidades e incidentes de seguran vulnerabilidades e incidentes de segurança definindo políticas procedimentos e , definindo políticas, procedimentos e padrões de segurança de TI e monitorando, detectando, reportando e solucionando vulnerabilidades de segurança.
+IV - Garantir a segurança dos sistemas - Busca manter a integridade da infraestrutura de informação e de processamento e minimizar o impacto de vulnerabilidades e incidentes de seguran vulnerabilidades e incidentes de segurança definindo políticas procedimentos e, definindo políticas, procedimentos e padrões de segurança de TI e monitorando, detectando, reportando e solucionando vulnerabilidades de segurança.
 Estão de acordo com o COBIT APENAS os que se apresentam em:";
 
             questao10A5.Alternativas[0] = "I e II ";
@@ -1063,7 +1060,7 @@ Estão de acordo com o COBIT APENAS os que se apresentam em:";
             QuestoesRespostas questao11A5 = new QuestoesRespostas();
 
             questao11A5.Questao =
-                @" - No COBIT, um dos processos do domínio Entrega e Suporte é o de assegurar conformidade com requisitos externos.";
+                @"No COBIT, um dos processos do domínio Entrega e Suporte é o de assegurar conformidade com requisitos externos.";
 
             questao11A5.Alternativas[0] = "CERTO";
             questao11A5.Alternativas[1] = "ERRADO";
@@ -1099,6 +1096,123 @@ Estão de acordo com o COBIT APENAS os que se apresentam em:";
             questao13A5.Resposta = questao13A5.Alternativas[1];
             questionario.Add(questao13A5);
 
+            QuestoesRespostas questao1A6 = new QuestoesRespostas();
+
+            questao1A6.Questao =
+                @"Quais do seguintes processos de TI satisfaz o requesito de negócio em termos de transparência e entendimento de custos, benefícios e etc.";
+
+            questao1A6.Alternativas[0] = "ME1 Monitorar e Avaliar o Desempenho de TI";
+            questao1A6.Alternativas[1] = "PO8 Gerenciar a Qualidade";
+            questao1A6.Alternativas[2] = "ME3 Assegurar a Conformidade com Requisitos Externos";
+            questao1A6.Alternativas[3] = "ME4 Prover Governança de TI";
+            questao1A6.Alternativas[4] = "DS6 Identificar e Alocar Custos";
+            questao1A6.Resposta = questao1A6.Alternativas[0];
+            questionario.Add(questao1A6);
+
+            QuestoesRespostas questao2A6 = new QuestoesRespostas();
+
+            questao2A6.Questao =
+                @"Qual processo de COBIT se concentra na gestão dos controles do processo?";
+
+            questao2A6.Alternativas[0] = "Monitorar e Planejar";
+            questao2A6.Alternativas[1] = "Monitorar e Avaliar";
+            questao2A6.Alternativas[2] = "Monitorar e Organizar";
+            questao2A6.Alternativas[3] = "Monitorar e Implementar";
+            questao2A6.Alternativas[4] = "Monitorar e Suportar";
+            questao2A6.Resposta = questao2A6.Alternativas[1];
+            questionario.Add(questao2A6);
+
+            QuestoesRespostas questao3A6 = new QuestoesRespostas();
+
+            questao3A6.Questao =
+                @" O COBIT decompõe TI em 4 domínios: Plan and Organise, Acquire and Implement, Deliver and Support e Monitor and Evaluate. 
+Com relação ao domínio Monitor and Evaluate, uma pergunta que pode ser feita na autoavaliação da corporação é:";
+
+            questao3A6.Alternativas[0] = "Os objetivos e metas de TI são claros e foram entendidos pela corporação?";
+            questao3A6.Alternativas[1] = "As estratégias de TI e do negócio estão alinhadas?";
+            questao3A6.Alternativas[2] = "Os sistemas funcionam corretamente após a implementação?";
+            questao3A6.Alternativas[3] = "São realizadas auditorias para garantir que as áreas críticas estão operando conforme o esperado ? ";
+            questao3A6.Alternativas[4] = "Os serviços de TI estão sendo entregues conforme os acordos do nível de serviço?";
+            questao3A6.Resposta = questao3A6.Alternativas[3];
+            questionario.Add(questao3A6);
+
+            QuestoesRespostas questao4A6 = new QuestoesRespostas();
+
+            questao4A6.Questao =
+                @" Entre os objetivos do processo denominado Monitorar e Avaliar os Controles Internos, incluem-se a monitoração, a comparação e o 
+aprimoramento continuado do ambiente e da estrutura de controles de TI, a fim de que sejam atingidos os objetivos organizacionais. ";
+
+            questao4A6.Alternativas[0] = "CERTO";
+            questao4A6.Alternativas[1] = "ERRADO";
+            questao4A6.Alternativas[2] = "N/A";
+            questao4A6.Alternativas[3] = "N/A";
+            questao4A6.Alternativas[4] = "N/A";
+            questao4A6.Resposta = questao4A6.Alternativas[0];
+            questionario.Add(questao4A6);
+
+            QuestoesRespostas questao5A6 = new QuestoesRespostas();
+
+            questao5A6.Questao =
+                @" No domínio monitorar e avaliar (monitor and evaluate), tem-se o processo monitorar e avaliar controle interno (monitor and evaluate internal control). 
+Um dos objetivos do referido processo é avaliar se os provedores externos de serviços aderem aos requisitos legais e obrigações contratuais. Uma das características do nível de maturidade definido (defined) é o desenvolvimento de políticas e procedimentos para avaliar as atividades de monitoração do controle interno";
+
+            questao5A6.Alternativas[0] = "CERTO";
+            questao5A6.Alternativas[1] = "ERRADO";
+            questao5A6.Alternativas[2] = "N/A";
+            questao5A6.Alternativas[3] = "N/A";
+            questao5A6.Alternativas[4] = "N/A";
+            questao5A6.Resposta = questao5A6.Alternativas[0];
+            questionario.Add(questao5A6);
+
+            QuestoesRespostas questao6A6 = new QuestoesRespostas();
+
+            questao6A6.Questao =
+                @"Entre os 34 processos que compõem os quatro domínios do COBIT, aquele responsável por prover auditorias independentes está presente:";
+
+            questao6A6.Alternativas[0] = "Apenas nos domínios de “Planejamento e Organização” e de “Aquisição e Implementação”.";
+            questao6A6.Alternativas[1] = "Apenas nos domínios de “Planejamento e Organização” e de “Monitoramento”.";
+            questao6A6.Alternativas[2] = "Apenas no domínio de “Entrega e Suporte”.";
+            questao6A6.Alternativas[3] = "Apenas no domínio de “Monitoramento”.";
+            questao6A6.Alternativas[4] = "Em todos os domínios.";
+            questao6A6.Resposta = questao6A6.Alternativas[3];
+            questionario.Add(questao6A6);
+
+
+            QuestoesRespostas questao7A6 = new QuestoesRespostas();
+
+            questao7A6.Questao = @" Analise as seguintes afirrmações relacionadas a conceitos básicos, domínios e terminologias do COBIT (Control Objectives for Information and related Technology).
+I. O domínio “Planejamento e Organização” cobre estratégia e tática, e diz
+respeito à identificação da maneira como TI e Segurança podem melhor
+contribuir para o atendimento dos objetivos do negócio.
+II. O domínio “Aquisição e Implementação” cobre a identificação, o
+desenvolvimento ou aquisição, a implementação e a integração dos
+processos do negócio.
+III. O domínio “Entrega e Suporte” cobre a avaliação ao longo do tempo
+com relação à sua qualidade e conformidade.
+IV. O domínio “Monitoramento” abrange as operações tradicionais sobre
+aspectos de segurança, continuidade e treinamento.
+Indique a opção que contenha todas as afirmações verdadeiras: ";
+
+            questao7A6.Alternativas[0] = "I e II";
+            questao7A6.Alternativas[1] = "II e III";
+            questao7A6.Alternativas[2] = "III e IV";
+            questao7A6.Alternativas[3] = "I e III";
+            questao7A6.Alternativas[4] = "II e IV";
+            questao7A6.Resposta = questao7A6.Alternativas[0];
+            questionario.Add(questao7A6);
+
+            QuestoesRespostas questao8A6 = new QuestoesRespostas();
+
+            questao8A6.Questao = @" Faz parte do domínio monitoramento e avaliação do COBIT o processo: ";
+
+            questao8A6.Alternativas[0] = "Fornecer governança para a TI.";
+            questao8A6.Alternativas[1] = "Garantir a continuidade dos serviços.";
+            questao8A6.Alternativas[2] = "Gerenciar mudanças.";
+            questao8A6.Alternativas[3] = "Gerenciar problemas.";
+            questao8A6.Alternativas[4] = "Avaliar e gerenciar riscos de TI.";
+            questao8A6.Resposta = questao8A6.Alternativas[0];
+            questionario.Add(questao8A6);
+            
             return questionario;
         }
     }
